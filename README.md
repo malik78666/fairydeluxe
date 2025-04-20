@@ -110,8 +110,7 @@
   </section>
 
   <footer>
-    <h2>Contact Us</h2>
-    <p>Email: contact@fairydeluxe.com</p>
+    
     <p>&copy; 2025 Fairy Deluxe. All rights reserved.</p>
   </footer>
 </body>
